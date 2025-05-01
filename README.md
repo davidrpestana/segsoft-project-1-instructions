@@ -1,6 +1,9 @@
 # segsoft-project-1-instructions
 
 The server is available at [https://auth-server-deploy.onrender.com]. The deployed server is hosted on Render and may take up to 50 seconds to load.
+To start the client clone this repository, then:
+    • Open command line in the client-deploy folder
+    • Run node client.js 
 
 ## 1- Register a user:
 
